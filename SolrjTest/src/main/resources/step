@@ -1,0 +1,6 @@
+1.使用HttpSolrService 连接solr服务,用SolrService接收
+2.使用SolrService中的AIP对索引库的数据进行操作：
+   .增
+   .删
+   .改
+   .查
